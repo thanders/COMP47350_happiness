@@ -56,3 +56,9 @@ https://www.transparency.org/news/feature/corruption_perceptions_index_2017
 WHO Life Expectancy 2000-2015 (Alan): 
 Link: http://apps.who.int/gho/data/node.main.688
 
+WHO Probability of dying per 1000 live births Data by country
+http://apps.who.int/gho/data/view.main.182?lang=en
+
+WHO Infant nutrition Data by country
+http://apps.who.int/gho/data/node.main.52?lang=en
+
