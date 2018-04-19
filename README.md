@@ -43,3 +43,11 @@ Definition of features:
 - Freedom, Generosity - the extent to which this feature contributes to evaluating the happiness in each country
 
 - Trust (Government Corruption) - the extent to which this feature contributes to evaluating the happiness in each country
+
+
+
+Source of files:
+
+Corruption Perception Index (2012-2017) - Transparency International:
+https://www.transparency.org/news/feature/corruption_perceptions_index_2017
+
