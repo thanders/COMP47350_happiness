@@ -46,7 +46,7 @@ If you add all these factors up, you get the happiness score so it might be un-r
 
 
 
-## Source of files:
+## Source of files:
 
 Corruption Perception Index (2012-2017) - Transparency International:
 
