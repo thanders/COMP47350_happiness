@@ -26,10 +26,20 @@ The residuals, or unexplained components, differ for each country, reflecting th
 
 What do the columns succeeding the Happiness Score(like Family, Generosity, etc.) describe?
 
-Definition of features:
-Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors.
-
 The following columns: GDP per Capita, Family, Life Expectancy, Freedom, Generosity, Trust Government Corruption describe the extent to which these factors contribute in evaluating the happiness in each country. The Dystopia Residual metric actually is the Dystopia Happiness Score(1.85) + the Residual value or the unexplained value for each country as stated in the previous answer.
 
 If you add all these factors up, you get the happiness score so it might be un-reliable to model them to predict Happiness Scores.
 
+Definition of features:
+
+- Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors.
+
+- GDP per Capita - the extent to which this feature contributes to evaluating the happiness in each country
+
+- Family - the extent to which this feature contributes to evaluating the happiness in each country
+
+- Life Expectancy - the extent to which this feature contributes to evaluating the happiness in each country
+
+- Freedom, Generosity - the extent to which this feature contributes to evaluating the happiness in each country
+
+- Trust (Government Corruption) - the extent to which this feature contributes to evaluating the happiness in each country
