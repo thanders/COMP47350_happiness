@@ -30,7 +30,7 @@ The following columns: GDP per Capita, Family, Life Expectancy, Freedom, Generos
 
 If you add all these factors up, you get the happiness score so it might be un-reliable to model them to predict Happiness Scores.
 
-Definition of features:
+## Definition of features:
 
 - Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors.
 
@@ -46,7 +46,7 @@ Definition of features:
 
 
 
-Source of files:
+## Source of files:
 
 Corruption Perception Index (2012-2017) - Transparency International:
 
