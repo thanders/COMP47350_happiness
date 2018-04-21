@@ -55,6 +55,9 @@ Corruption Perception Index (2012-2017) - Transparency International:
 
 https://www.transparency.org/news/feature/corruption_perceptions_index_2017
 
+Global Land Temperatures by Country 1745 - 2013 (Alan):
+tbc
+
 WHO Life Expectancy 2000-2015 (Alan): 
 Link: http://apps.who.int/gho/data/node.main.688
 
