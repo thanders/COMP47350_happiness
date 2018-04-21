@@ -1,0 +1,10 @@
+Final_2008-2017.csv combined following files:
+	Dying_baby_data.csv
+Crime Index for Country 2012.csv	GDP_in_2011USD.csv
+Crime Index for Country 2013.csv	WHOLifeExpectancy.csv
+Crime Index for Country 2014.csv	WHR151617.csv
+Crime Index for Country 2015.csv	h2008-2017.csv
+Crime Index for Country 2016.csv	h2008-2017.xls
+Crime Index for Country 2017.csv	transparency_international_CPI.csv
+
+The base file is h2008-2017.csv (Converted from happiness&descriptivefeat_2008-2017.xls). All other csv files' columns were integrated into this file.
