@@ -44,7 +44,9 @@ If you add all these factors up, you get the happiness score so it might be un-r
 
 - Trust (Government Corruption) - the extent to which this feature contributes to evaluating the happiness in each country
 
+- Infant nutrition feeding - this feature could contributes the happiness of whole family as it is very helpful for Mental Health of Mothers and babies
 
+- Births dying rate - this feature could be an effidence for families who feel unhappy at least 2 years or more long duration.
 
 ## Source of files:
 
@@ -53,6 +55,14 @@ Corruption Perception Index (2012-2017) - Transparency International:
 
 https://www.transparency.org/news/feature/corruption_perceptions_index_2017
 
+Global Land Temperatures by Country 1745 - 2013 (Alan):
+tbc
+
 WHO Life Expectancy 2000-2015 (Alan): 
 Link: http://apps.who.int/gho/data/node.main.688
 
+WHO Probability of dying per 1000 live births Data by country (Peng)
+http://apps.who.int/gho/data/view.main.182?lang=en
+
+WHO Infant nutrition Data by country (Peng)
+http://apps.who.int/gho/data/node.main.52?lang=en
